@@ -1,0 +1,148 @@
+<!--
+~ Copyright (C) 2019 The Android Open Source Project
+~
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~      http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Meu App</string>
+    <string name="theme_name_hint">ta guapa</string>
+
+    <string name="lorem_ipsum">
+
+أراه هنا، أو ه:
+عينهُ الزائغة في نهر
+النكبات، منخراه المتجذّران
+في تُربة
+المجازر، بطنه التي طحنتْ
+قمحَ
+الجنون في طواحين بابل
+لعشرة آلاف عام…
+
+أرى صورتَهُ
+التي فقدت إطارها
+في انفجارات التاريخ
+المستعادة
+تستعيد ملامحها كمرآةٍ
+لتدهشنا في كل مرة
+بمقدرتها الباذخة على التبذير.
+
+وفي جبينه الناصع
+يمكنك أن ترى
+كأنما على صفحات كتابٍ
+طابورَ الغزاة يمرُّ
+كما في فيلم بالأبيض والأسود:
+أعطه أيَّ سجن ومقبرة
+أعطه أي منفى
+أي هنا، أو هناك
+ورغم ذلك يمكنك أن ترى
+المنجنيقات تدكُّ الأسوار
+لتعلو مرّة أخرى.
+
+وتصعد أوروك من جديد</string>
+
+    <!--Main-->
+    <string name="tab_title_instructions">Pasos</string>
+    <string name="tab_title_components">componentes!!</string>
+    <string name="tab_title_theme_summary">resumen</string>
+
+    <!--Instructions-->
+    <string name="instructions_how_to">Llegué al club con el combo
+Rápido la vi lejos
+Se pintaba los labios
+Y la copa como espejo</string>
+    <string name="instructions_how_to_title">Se acercó poco a poco</string>
+    <string name="instructions_options_title">Y yo queriendo que me baile</string>
+    <string name="instructions_enable_dark_title">ma lento ma ocuro</string>
+
+    <!--Component-->
+    <string name="text_headline_6">666</string>
+    <string name="text_body_2">222</string>
+    <string name="text_button">boton xd!</string>
+    <string name="text_overline">Sobrelinea!!!!</string>
+
+    <string name="button_label_title">boton xd</string>
+    <string name="button_left_button_label">banda izq</string>
+    <string name="button_center_button_label">centro</string>
+    <string name="button_right_button_label">banda der</string>
+
+    <string name="fab_label_title">FAB</string>
+
+    <string name="card_label_title">pipopi</string>
+
+    <string name="chip_label_title">chispazos</string>
+    <string name="chip_action_title">acciones</string>
+    <string name="chip_filter_title">filtros</string>
+    <string name="chip_choice_title">elecciones!!</string>
+    <string name="chip_entry_title">entradiña</string>
+
+    <string name="top_app_bar_label_title">barrarriba</string>
+    <string name="app_bar_menu_share">comprate!!</string>
+    <string name="app_bar_menu_search">busca</string>
+    <string name="app_bar_menu_bookmark">literalmente libromarca</string>
+
+    <string name="drawer_label_title">dibujador:o</string>
+
+    <string name="text_field_label_title" description="Label text for a text field [CHAR LIMIT=50]">Text field</string>
+    <string name="text_field_hint_text">uwu</string>
+
+    <string name="bottom_nav_label_title">boton de navigacion</string>
+    <string name="bottom_nav_favorites_title">favs</string>
+    <string name="bottom_nav_music_title">temardos</string>
+    <string name="bottom_nav_places_title">Places</string>
+    <string name="bottom_nav_news_title">noticiones</string>
+
+    <string name="switch_label_title">cambio!</string>
+
+    <string name="radio_button_label_title">radio boton</string>
+
+    <string name="checkbox_label_title">🛐🛐</string>
+
+    <string name="bottom_app_bar_label_title">😭😭</string>
+
+    <string name="tabs_label_title">tablas</string>
+
+    <string name="snackbar_label_title">bruh</string>
+    <string name="snackbar_message_text">favs plus</string>
+    <string name="snackbar_action_text">otra vez acciones</string>
+
+    <string name="dialog_label_title">diaolgantes</string>
+    <string name="dialog_button_label">chow</string>
+
+    <string name="bottom_sheet_label_title">cayó la noche</string>
+    <string name="bottom_sheet_button_label">quevedo</string>
+
+
+    <!--Theme Summary-->
+    <string name="label_color_scheme_title">el combo</string>
+
+    <string name="label_shape_system_title">la l</string>
+    <string name="shape_appearance_small_label">S</string>
+    <string name="shape_appearance_medium_label">M</string>
+    <string name="shape_appearance_large_label">L</string>
+
+    <string name="label_typography_scale_title">si</string>
+    <string name="text_appearance_h1_label">H1</string>
+    <string name="text_appearance_h2_label">H2</string>
+    <string name="text_appearance_h3_label">H3</string>
+    <string name="text_appearance_h4_label">H4</string>
+    <string name="text_appearance_h5_label">H5</string>
+    <string name="text_appearance_h6_label">H6</string>
+    <string name="text_appearance_subtitle_1_label">Subtitle 1</string>
+    <string name="text_appearance_subtitle_2_label">Subtitle 2</string>
+    <string name="text_appearance_body_1_label">Body 1</string>
+    <string name="text_appearance_body_2_label">Body 2</string>
+    <string name="text_appearance_button_label">Button</string>
+    <string name="text_appearance_caption_label">Caption</string>
+    <string name="text_appearance_overline_label">Overline</string>
+</resources>
