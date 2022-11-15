@@ -26,3 +26,12 @@ era igual que el diurno así que procedí a realizar los cambios.
 ## Ramas
 
 La única rama existente es master así que todos los cambios están realizados ahí.
+
+## Datos para subirlo a GitHub
+
+Por un error que desconozco no me dejaba hacer el commit desde Android Studio por lo que se tuvo que realizar
+de la siguiente manera.
+
+1. Hacer el add desde el AndroidStudio.
+2. Hacer el commit desde la terminal Git Bash.
+3. Volver al AndroidStudio para poder realizar el push mediante el link del repositorio.
