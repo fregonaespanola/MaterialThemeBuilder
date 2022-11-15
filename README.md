@@ -6,7 +6,7 @@ Para ello lo realizado fue indagar en el archivo strings.xml comparando los text
 dentro de dicho archivos con los textos de la propia app al ejecutarla. Una vez ya comparados y sabiendo
 a que hace referencia cada uno, procedí a cambiarlos como se puede ver en esta captura.
 
-![GitHub Logo](/img/2.png)
+![GitHub Logo](./img/2.PNG)
 
 #Colores cambiados
 Para los colores se realizaron dos cambios importantes, los cambios para el modo diurno y los cambios para el
